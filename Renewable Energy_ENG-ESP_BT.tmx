@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4b">
+<header creationtool="tx" creationtoolversion="3.0.0.17037" segtype="block" o-tmf="LogiTerm XML Bitext" adminlang="en-US" srclang="en" datatype="plaintext">
+<note>Converted from LogiTerm XML Bitext fortmat by tx 3.0.0.17037 on 2020-11-23 3:30:56 PM</note>
+<prop type="lt-title">Renewable Energy_ENG_ENG-ESP_BT.xml</prop>
+<prop type="lt-segmrules">SRX</prop>
+<prop type="lt-filtering"></prop>
+<prop type="lt-namesrc">C:\Web\YouAlign2018\Temp\dzn24azayosd2xl4stukldub\Renewable Energy_ENG.docx</prop>
+<prop type="lt-nametgt">C:\Web\YouAlign2018\Temp\dzn24azayosd2xl4stukldub\Renewable Energy_ESP.docx</prop>
+<prop type="lt-titlesrc"></prop>
+<prop type="lt-titletgt"></prop>
+<prop type="lt-datesrc">11/23/2020 3:30:53 PM</prop>
+<prop type="lt-datetgt">11/23/2020 3:30:53 PM</prop>
+<prop type="lt-datebtx">11/23/2020 3:30:54 PM</prop>
+</header>
+<body>
+<tu>
+<tuv xml:lang="en">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Renewable Energy_ENG.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+<tuv xml:lang="es">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Renewable Energy_ESP.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>ATLAS RENEWABLE ENERGY’S INNOVATIVE APPROACH TO RENEWABLE ENERGY</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>EL ENFOQUE INNOVADOR DE ATLAS RENEWABLE ENERGY EN ENERGÍAS RENOVABLES</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Innovation in solar energy is being put to the test inside one of the first Solar energy plants in Latin America. The world is reaching an apex of change.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La innovación en energía solar se pone a prueba en una de las primeras plantas de energía solar de América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We are living in a time of a global, collective shift of consciousness.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El mundo vive una época de cambios en la conciencia colectiva.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The climate crisis has demanded we mitigate the effects of global warming.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La crisis climática ha exigido que mitiguemos los efectos del calentamiento global.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>And in doing so, industries have learned to adapt, to embrace new technologies and new ways of thinking.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y al hacerlo, las industrias han aprendido a adaptarse y a adoptar nuevas tecnologías y formas de pensar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Across Latin America, the high cost of legacy energy models has inspired governments to form energy policies that support the adaptation of renewables.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En América Latina, los altos costos del modelo energético tradicional ha inspirado a los gobiernos a formular políticas de energías renovables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The growth of the renewable energy sector has gained tremendous momentum as countries strive to improve energy security.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A medida que los países se esfuerzan por mejorar la seguridad energética, crece el sector de las energías renovables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Research and development in solar energy innovations have sparked in the past decade, as it promises a sustainable transition to energy independence.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La investigación y las innovaciones en energía solar se han disparado en la última década, pues esta energía promete una transición sostenible hacia la independencia energética.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>So, what approach has allowed industry leaders to get ahead of the curve?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Entonces, ¿qué enfoque ha permitido a los líderes de la industria adelantarse en la curva?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Finding the Key To Sustainable Success</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Encontrar la clave hacia el éxito sostenible</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>At Atlas Renewable Energy, we strive to stay one step ahead in the Renewable Energy industry by anticipating the needs of our clients and evolving along with technological advances that benefit millions of people.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Atlas Renewable Energy nos esforzamos por estar un paso adelante en la industria de las energías renovables. Nos anticipamos a las necesidades de nuestros clientes y estamos al día con los avances tecnológicos que benefician a millones de personas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our innovative spirit combined with the expertise we have acquired working in the Latin American region creates the ideal environment for cutting-edge engineering innovation to come to life.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestro espíritu innovador, combinado con la experiencia adquirida en América Latina, crean el ambiente ideal para que la innovación en el campo de la ingeniería cobre vida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In line with this core philosophy, we designed a project to gain long-term knowledge that would allow us to improve the efficiency and capability of our team.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En línea con esta filosofía central, diseñamos un proyecto para crear conocimiento a largo plazo que nos permitiera mejorar la eficiencia y la capacidad de nuestro equipo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This is how our R&amp;D lab in Chile came to life.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Así nació nuestro laboratorio de investigación y desarrollo en Chile.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The Quilapilún Solar Plant was the ideal setting for the lab, not only because it was the first of its kind in the Metropolitan area of Santiago and it currently services 110,000 homes with renewable energy, but also due to the fact that it has been in stable operation for over three years.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestra planta solar en Quilapilún fue el escenario ideal para el laboratorio, no solo porque fue la primera de su tipo en el área metropolitana de Santiago, donde actualmente sirve a 110.000 hogares con energía renovable, sino por su estabilidad operativa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The lab needed to be versatile and capable of testing different technologies and equipment.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El laboratorio debía ser versátil y capaz de probar diferentes tecnologías y equipos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Even before we set up the lab, we were keeping track of all the new top-notch technologies being developed around the world and established strong partnerships with the main module manufacturers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Incluso antes de establecer el laboratorio, evaluamos todas las nuevas tecnologías de primer nivel que se desarrollaban en el mundo y establecimos sólidas alianzas con los principales fabricantes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Based on this information, rigorous standards of economic viability, as well as optimal technological advancement, and application time, we choose which innovations to test.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Con esta información, elegimos qué innovaciones probar, teniendo en cuenta la viabilidad económica, el avance tecnológico óptimo y el tiempo de aplicación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Creating the Ideal Conditions for Research and Development</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Crear las condiciones ideales para la investigación y el desarrollo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We believe in the power of innovation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Creemos en el poder de la innovación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We saw a distinct advantage in creating an in-house lab that would give us the fastest access to raw data.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por eso comprendimos que crear un laboratorio interno nos podía dar un acceso más rápido a los datos obtenidos de primera mano.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our lab operates within the Quilapilún Solar Plant (an operational Atlas plant), giving us a competitive edge, and ensuring we have the most control over potential product risks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestro laboratorio opera dentro de la planta solar de Quilapilún, lo que nos brinda una ventaja competitiva y garantiza que tengamos mayor control sobre los posibles riesgos de los productos y del equipo con el que trabajamos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We are constantly measuring the energy production of different technologies in diverse conditions, and how they respond to changes in the main variables that define their performance.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Constantemente medimos la producción de energía de las diferentes tecnologías frente a diversas condiciones, y cómo responden a los cambios en las principales variables que determinan su rendimiento.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our value lies in the precision of our analysis.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestro valor radica en la precisión de nuestro análisis.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We capture and analyze the behaviour of each configuration of our equipment—including modules, cleaning robots, and inverters.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Medimos y analizamos el desempeño de cada uno de nuestros equipos, incluidos módulos, robots de limpieza e inversores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Each string has its own measurement and is always in a single MPPT, giving individualized measurements for each manufacturer in its respective configuration.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada cadena tiene su propia medida y siempre está en un único MPPT, lo que proporciona medidas individualizadas de la configuración para cada fabricante.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This allows us to better control the risks resulting from the lack of available information regarding guarantees, certifications, and the disparity in the efficiency data of the last generation of photovoltaic modules.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto nos permite controlar mejor los riesgos derivados de la falta de información disponible sobre garantías y certificaciones, y de la disparidad en los datos de eficiencia de la última generación de módulos fotovoltaicos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Bifacial modules are a prime example of why Renewable Energy desperately needs R&amp;D.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los módulos bifaciales son un excelente ejemplo de por qué la energía renovable necesita desesperadamente laboratorios de investigación y desarrollo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The technology is not new, but in the past few years, technological advances and efficiency in manufacturing costs are making it a viable alternative for large-scale projects.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Aunque estos módulos no son nuevos, los avances tecnológicos y la eficiencia en sus costos de fabricación los han convertido en una alternativa viable para proyectos a gran escala.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Its main detractor is the uncertainty in performance increase relative to standard solar panels.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Su principal desventaja es la incertidumbre de su rendimiento, en comparación con los paneles solares estándar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Only a few projects in the field are implementing bifacial modules, mainly in North America and Oceania.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Solo unos pocos proyectos emplean módulos bifaciales, principalmente en América del Norte y Oceanía.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In Latin America, we are getting ahead of the trend by testing their application at scale and generating methodical research on the subject.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En América Latina nos adelantamos: probamos estos módulos a escala y realizamos una investigación metódica sobre ellos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>When new technologies such as this are adopted with success, it encourages others to follow.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cuando las nuevas tecnologías como esta se adoptan con éxito, se alienta a otros a seguir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We hope to inspire belief in the technology, attract investors, and push it into the mainstream.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El futuro de las energías renovables en América Latina</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The Future of Renewable Energy in the Region Our ultimate mission is to work for a future based on clean energy for all.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestra misión final es trabajar por un futuro que tenga energía limpia para todos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We know that having more data available through research and innovation will create a sense of security and support for sustainable projects and new technologies, favoring their proliferation and penetration.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Somos conscientes de que tener más datos disponibles gracias a la investigación y la innovación creará una sensación de seguridad y apoyo para proyectos sostenibles y nuevas tecnologías, que favorecerá su proliferación y penetración.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This will eventually result in a widespread consumption of cheaper and greener energy.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Eventualmente resultará en un consumo generalizado de energía más barata y más ecológica.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The lab has offered us a competitive advantage in the industry, but all the resulting data has also helped manufacturers understand their products’ performance by sharing specific insights with them.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El laboratorio nos ha ofrecido una ventaja competitiva en la industria, pero todos los datos resultantes ayudan también a los fabricantes a comprender el rendimiento de sus productos, mediante el intercambio de información específica con ellos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This has also opened a range of possibilities in regards to future collaborations with educational institutes and research centers that share our vision.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Se ha abierto una gama de posibilidades sobre futuras colaboraciones con institutos educativos y centros de investigación que comparten nuestra visión.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>At Atlas Renewable Energy, we will continue to affirm our leadership in the implementation of renewable energy projects in Latin America.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Atlas Renewable Energy continuaremos afirmando nuestro liderazgo en proyectos de energía renovable en América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Opportunities and challenges come hand in hand, and solar energy has become one of the most competitive areas in the renewables sector, so the challenge is finding a way to top ourselves every day.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las oportunidades y los desafíos van de la mano, y la energía solar se ha convertido en una de las áreas más competitivas en el sector de las energías renovables. El desafío ahora es encontrar una forma de superarnos todos los días.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We remain active, searching for the best available solutions, evaluating them, and innovating to make our projects more efficient, never forgetting our core values of excellence, integrity, and passion for what we do.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nos mantenemos activos: buscamos y evaluamos las mejores soluciones disponibles e innovamos para hacer que nuestros proyectos sean más eficientes, sin olvidar nunca nuestros valores centrales de excelencia, integridad y pasión por lo que hacemos.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

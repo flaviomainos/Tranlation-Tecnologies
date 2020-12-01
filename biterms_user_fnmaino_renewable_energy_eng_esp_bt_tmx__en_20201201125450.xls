@@ -1,0 +1,1395 @@
+<html>
+  <head>
+    <title>biterms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Source</th><th>Target</th><th>Score</th><th>Co-freq</th><th>L1 Freq</th><th>L2 Freq</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>performance</td>
+          <td>rendimiento</td>
+          <td>28.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>efficiency</td>
+          <td>eficiencia</td>
+          <td>28.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>success</td>
+          <td>éxito</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>security</td>
+          <td>seguridad</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>sector</td>
+          <td>sector de la energía renovable</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>hand</td>
+          <td>desafío</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>widespread consumption</td>
+          <td>consumo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>way</td>
+          <td>oportunidad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>warming</td>
+          <td>efecto del calentamiento global</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vision</td>
+          <td>visión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>viable alternative</td>
+          <td>fabricación</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>viability</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>value</td>
+          <td>precisión de nuestro análisis</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>uncertainty</td>
+          <td>panel solar estándar</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ultimate mission</td>
+          <td>misión final</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>trend</td>
+          <td>investigación metódica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>tremendous momentum</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>transition</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>track</td>
+          <td>tecnología de primer nivel</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>test</td>
+          <td>prueba</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>technological advancement</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>team</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sustainable transition</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sustainable success</td>
+          <td>éxito sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>support</td>
+          <td>sensación de seguridad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>subject</td>
+          <td>investigación metódica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>string</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>step</td>
+          <td>persona</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>stable operation</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spirit</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>single mppt</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>shift</td>
+          <td>época de cambio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>setting</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sense</td>
+          <td>sensación de seguridad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>scale</td>
+          <td>investigación metódica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>respective configuration</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable energy sector</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable energy industry</td>
+          <td>persona</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>range</td>
+          <td>visión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proliferation</td>
+          <td>sensación de seguridad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>project</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>production</td>
+          <td>variable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>product</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>prime example</td>
+          <td>ejemplo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>precision</td>
+          <td>precisión de nuestro análisis</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>power</td>
+          <td>poder de la innovación</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>potential product</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>plant</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>philosophy</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>performance increase</td>
+          <td>panel solar estándar</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>penetration</td>
+          <td>sensación de seguridad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>past decade</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>passion</td>
+          <td>valor central de excelencia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>own measurement</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>optimal technological advancement</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>operational atlas plant</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>operational atlas</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>operation</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>mppt</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>momentum</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>module</td>
+          <td>tecnología de primer nivel</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>mission</td>
+          <td>misión final</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>methodical research</td>
+          <td>investigación metódica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>measurement</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>manufacturing</td>
+          <td>fabricación</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>manufacturer</td>
+          <td>mppt</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>mainstream</td>
+          <td>futuro de la energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>main module</td>
+          <td>tecnología de primer nivel</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>main detractor</td>
+          <td>panel solar estándar</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>long-term knowledge</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>line</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>legacy energy</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>legacy</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>leadership</td>
+          <td>proyecto de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>latin american region</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>last generation</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lack of available information</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lack</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>knowledge</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kind</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>keeping track</td>
+          <td>tecnología de primer nivel</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>integrity</td>
+          <td>valor central de excelencia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>institutes</td>
+          <td>visión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>innovative spirit</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>innovative approach</td>
+          <td>enfoque innovador</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>independence</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>increase</td>
+          <td>panel solar estándar</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>in-house lab</td>
+          <td>laboratorio interno</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>implementation of renewable energy</td>
+          <td>proyecto de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>implementation</td>
+          <td>proyecto de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ideal setting</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ideal environment</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>high cost of legacy energy</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>high cost</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>growth</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>global warming</td>
+          <td>efecto del calentamiento global</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>generation</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>generating methodical research</td>
+          <td>investigación metódica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>future</td>
+          <td>misión final</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>field</td>
+          <td>oceanía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fact</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>expertise</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>excellence</td>
+          <td>valor central de excelencia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>example</td>
+          <td>ejemplo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>environment</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>engineering innovation</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>engineering</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>energy security</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>energy sector</td>
+          <td>seguridad energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>energy production</td>
+          <td>variable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>energy industry</td>
+          <td>persona</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>energy independence</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>educational institutes</td>
+          <td>visión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>edge</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>economic viability</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>docx</td>
+          <td>renewable energy esp</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>distinct advantage</td>
+          <td>laboratorio interno</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>disparity</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>development</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>detractor</td>
+          <td>panel solar estándar</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>decade</td>
+          <td>transición sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>day</td>
+          <td>oportunidad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>cutting-edge engineering innovation</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>cutting-edge engineering</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>cutting-edge</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>curve</td>
+          <td>líder de la industria</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>crisis</td>
+          <td>efecto del calentamiento global</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>cost of legacy energy</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>cost</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>core philosophy</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>control</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>consumption</td>
+          <td>consumo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>consciousness</td>
+          <td>época de cambio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>competitive edge</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>competitive advantage</td>
+          <td>rendimiento de su producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>collective shift</td>
+          <td>época de cambio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>climate crisis</td>
+          <td>efecto del calentamiento global</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>climate</td>
+          <td>efecto del calentamiento global</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>clean energy</td>
+          <td>misión final</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>change</td>
+          <td>prueba</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>challenge</td>
+          <td>oportunidad</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>capability</td>
+          <td>plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>belief</td>
+          <td>futuro de la energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>behaviour</td>
+          <td>robot de limpieza</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>available information</td>
+          <td>módulo fotovoltaico</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>atlas plant</td>
+          <td>riesgo de el producto</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>area</td>
+          <td>área metropolitana de santiago</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>approach</td>
+          <td>enfoque innovador</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>application time</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>apex</td>
+          <td>prueba</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>analysis</td>
+          <td>precisión de nuestro análisis</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>american region</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>alternative</td>
+          <td>fabricación</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>advancement</td>
+          <td>viabilidad económica</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>adaptation</td>
+          <td>política de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>access</td>
+          <td>laboratorio interno</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lab</td>
+          <td>laboratorio</td>
+          <td>27.900</td>
+          <td>7</td>
+          <td>7</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>solar energy</td>
+          <td>energía solar</td>
+          <td>27.777</td>
+          <td>3</td>
+          <td>3</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>industry</td>
+          <td>industria</td>
+          <td>27.777</td>
+          <td>3</td>
+          <td>3</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>innovation</td>
+          <td>innovación</td>
+          <td>27.678</td>
+          <td>4</td>
+          <td>4</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>information</td>
+          <td>información</td>
+          <td>27.678</td>
+          <td>2</td>
+          <td>2</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>energy</td>
+          <td>energía</td>
+          <td>27.637</td>
+          <td>14</td>
+          <td>20</td>
+          <td>16</td>
+        </tr>
+        <tr>
+          <td>research</td>
+          <td>investigación</td>
+          <td>27.540</td>
+          <td>4</td>
+          <td>4</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>equipment</td>
+          <td>equipo</td>
+          <td>27.415</td>
+          <td>2</td>
+          <td>2</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>advantage</td>
+          <td>dato</td>
+          <td>27.415</td>
+          <td>2</td>
+          <td>2</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>world</td>
+          <td>tecnología de primer nivel</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>time</td>
+          <td>época de cambio</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>technology</td>
+          <td>futuro de la energía renovable</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>region</td>
+          <td>vida</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>life</td>
+          <td>vida</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>configuration</td>
+          <td>robot de limpieza</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>atlas</td>
+          <td>riesgo de el producto</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>application</td>
+          <td>viabilidad económica</td>
+          <td>27.415</td>
+          <td>1</td>
+          <td>2</td>
+          <td>1</td>
+        </tr>
+      </tbody>
+</table></body></html>
